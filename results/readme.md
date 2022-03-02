@@ -1,1 +1,1 @@
-1. predicted protein-ligand binding affinity
+1. predicted binding affinity of protein-ligand complex
